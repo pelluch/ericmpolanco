@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Eric::Application.config.secret_key_base = 'c4b43a8f0abd7bf9fcf11af4451fe030d148c6beb457408c616080c29294fd72573db16c35e05d261a7693f3d041acd78d7e8033e1de82e01edeae65c1ff9f43'
+Eric::Application.config.secret_key_base = '23aff7320703b0bdfc87ed0664784af54e06ede30cc75ac7dcf21bedf40128b4b2b3c693d5ae8646e13d482b1583a31078c4d6ef8d1087fed76a138a1f6bb933'
